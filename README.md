@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> _Deploy your own instance using the steps below._
-
----
-
 ## ✨ Features
 
 - **Drag & Drop Upload** — Instantly upload any text-based PDF via drag-and-drop or file picker
