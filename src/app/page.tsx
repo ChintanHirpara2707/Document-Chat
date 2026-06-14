@@ -324,9 +324,6 @@ export default function Home() {
               <h1 className="text-lg font-extrabold tracking-tight text-slate-800">
                 DocuChat
               </h1>
-              <p className="text-[9px] font-bold tracking-widest text-purple-500 uppercase">
-                Light Neumorphism
-              </p>
             </div>
           </div>
           {file && (
